@@ -4,3 +4,5 @@ Find and save to a file 10 US proxies (without a check):
 ./proxies.txt
 
 ./install.sh
+./run.sh
+./proxy_checker.sh
