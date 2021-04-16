@@ -1,0 +1,12 @@
+diff --git a/requirements.txt b/requirements.txt
+index 6eb0188..1c9512e 100644
+--- ./requirements.txt
++++ ./requirements.txt
+@@ -1,4 +1,5 @@
+-requests
+-pandas
+ beautifulsoup4
++fake-useragent
+ lxml
++pandas
++requests
