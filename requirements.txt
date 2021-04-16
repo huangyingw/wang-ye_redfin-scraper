@@ -1,4 +1,5 @@
-requests
-pandas
 beautifulsoup4
+fake-useragent
 lxml
+pandas
+requests
