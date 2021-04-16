@@ -3,4 +3,4 @@ SCRIPT=$(realpath "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
 cd "$SCRIPTPATH"
 
-python tools/proxy_checker.py --proxy_csv_path proxy.csv
+python tools/proxy_checker.py --proxy_csv_path good_proxies.csv
