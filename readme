@@ -1,4 +1,6 @@
 Find and save to a file 10 US proxies (without a check):
-proxybroker grab --countries US --limit 10 --outfile ./proxies.txt
 
+./grab_proxies.sh
+./proxies.txt
 
+./install.sh
